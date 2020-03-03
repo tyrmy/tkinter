@@ -21,7 +21,7 @@ class myFrame(Frame):
         print(return_values)
 
 root = Tk()
-values = ["Banaanit","Omenat","Sitruunat","Limet"]
+values = ["Banaanit","Omenat","Sitruunat","Limet", "Mansikat"]
 
 root.title("Useful App")
 myFrame(root, values, "Hedelmät")
